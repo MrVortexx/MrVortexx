@@ -6,7 +6,7 @@
   * https://www.linkedin.com/in/matheus-sousa-aguiar-703026177 
   * matheus034@yahoo.com
 
-![image](https://user-images.githubusercontent.com/49654198/138013388-20f300d2-82b9-4f93-a51a-c5c222e31fc6.png)
+![image](https://user-images.githubusercontent.com/49654198/138013603-985aaf77-41e6-4310-99f2-6dc3e3115129.png)
 
 <!---
 MrVortexx/MrVortexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
