@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Matheus Sousa, from Rio de Janeiro, Brazil!
-- 👀 I’m interested in  Java, Spring, Grails, C, Unix Systems, NodeJS, ReactJS and AngularJS!
-- 🌱 I’m currently learning Java, Spring and Grails.
-- 💞️ I have good knowledge in NodeJS, React and C.
-- 📫 How to reach me :
+- ⛷ Hi! I’m Matheus Sousa, from Rio de Janeiro, Brazil!
+- 👁 I’m interested in  Java, Spring, Grails, C, Unix Systems, NodeJS, ReactJS and AngularJS!
+- 📖 I’m currently learning Java, Spring and Grails.
+- 📚 I have good knowledge in NodeJS, React and C.
+- 📇 How to reach me :
   * https://www.linkedin.com/in/matheus-sousa-aguiar-703026177 
   * matheus034@yahoo.com
 
